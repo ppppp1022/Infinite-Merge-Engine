@@ -6,7 +6,7 @@ from typing import List
 import os
 
 """
-rl: /Users/pcy/Documents/ReinforcementLearning/rl/bin/python
+rl: ollama가 설치된 python 가상환경 주소
 
 프롬프트 변경하는 방법: ollama create {name} -f ./Assets/LLM/ManagementAgent_prompt
 """
