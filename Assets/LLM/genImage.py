@@ -2,7 +2,7 @@ from google import genai
 from google.genai import types
 from PIL import Image
 
-client = genai.Client(api_key="AIzaSyCzYRtsaIVz6_1RpB_v7Au9qavzazYRC6o")
+client = genai.Client(api_key="api_key")
 
 prompt = (
     "Create a picture of a nano banana dish in a fancy restaurant with a Gemini theme"
